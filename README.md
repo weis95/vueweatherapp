@@ -1,24 +1,9 @@
-# vueweatherapp
+npm run serve to run.
 
-## Project setup
-```
-npm install
-```
+Works in Chrome.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Add city input syntax: city,countrycode
 
-### Compiles and minifies for production
-```
-npm run build
-```
+example: Helsinki,fi
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Disclaimer: First vue project, took 1 hour ish. No components, just a single page.
